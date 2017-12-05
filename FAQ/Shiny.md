@@ -1,3 +1,11 @@
+## 確定Shiny APP可以運行
+
+參考文件 [link](https://paper.dropbox.com/doc/ShinyAPP-QmAymlUAYl4WJmr8dQw0R?_tk=share_copylink)   
+
+
+
+
+
 
 ## No such file or directory  
 ### 問題  
